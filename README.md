@@ -7,4 +7,5 @@
      ⚙️ Using Selenium Python Katalon Studio for Automated Testing </br>
 <p>
 
-Let's connect with me on <a href="https://www.linkedin.com/in/danu-fawwaz-gimnastian-24a0b41a6">Linkedin</a>  </br>
+Let's connect! <a href="https://www.linkedin.com/in/danu-fawwaz-gimnastian-24a0b41a6">Linkedin</a>  </br>
+
